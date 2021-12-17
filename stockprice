@@ -1,3 +1,8 @@
+\\ pip3 install dash
+\\ pip3 install dash-html-components
+\\ pip3 install dash-core-components
+
+
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
